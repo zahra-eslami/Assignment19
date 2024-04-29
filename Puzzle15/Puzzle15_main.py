@@ -4,9 +4,8 @@ import random
 from functools import partial
 
 from PySide6.QtWidgets import QApplication,QMainWindow,QMessageBox
-from PySide6.QtUiTools import QUiLoader
 from PySide6.QtGui import QIcon
-from PySide6.QtCore import QSize, QTimer, QTime, QFile
+from PySide6.QtCore import QSize, QTimer, QTime
 from my_puzzle15 import Ui_MainWindow
 
 class MainWindow(QMainWindow):

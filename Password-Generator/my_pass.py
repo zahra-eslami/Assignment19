@@ -34,7 +34,7 @@ class Ui_MainWindow(object):
         sizePolicy.setVerticalStretch(0)
         sizePolicy.setHeightForWidth(self.label.sizePolicy().hasHeightForWidth())
         self.label.setSizePolicy(sizePolicy)
-        self.label.setPixmap(QPixmap(u"pics/unnamed.png"))
+        self.label.setPixmap(QPixmap(u"Password-Generator/pics/unnamed.png"))
         self.label.setScaledContents(True)
         self.label_2 = QLabel(self.centralwidget)
         self.label_2.setObjectName(u"label_2")

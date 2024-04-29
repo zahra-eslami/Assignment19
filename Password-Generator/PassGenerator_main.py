@@ -76,7 +76,7 @@ class MainWindow(QMainWindow):
     
     def copy_to_clipboard(self):
         msg_box=QMessageBox()
-        msg_box.setText("your password copy to clipboard (●'◡'●)")
+        msg_box.setText("has been copied to the clipboard (●'◡'●)")
         msg_box.exec()
 
         text = self.ui.lineEdit.text()
