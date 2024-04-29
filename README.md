@@ -25,17 +25,11 @@ You can read more here:
 These programs utilize the PySide 6 library for creating graphical user interfaces (GUIs) in Python. Each program serves a specific purpose and provides a user-friendly interface for interacting with its functionalities.
 
 Here are some Pictures of these programs:
-| Program Name          | Picture                                   |
-|-----------------------|-----------------------------------------------|
-| Line Removal Tool     | <center> 
-<img src="Line_break_removal\files\LineBreakRemoval.png" width="300" height="200" />
-</center>|
-| Unit Converter        | <center>
-<img src="Password-Generator\pics\Password_Generator.png" width="300" height="200" />
-</center>  |
-| Password Generator    | <center>
-<img src="Puzzle15\pic\Puzzle15.png" width="300" height="200" />
-</center>     |
-| Puzzle 15 Game        | <center>
-<Units_convertors\pics\unit_convertor.png" width="300" height="200" />
-</center>   |
+
+
+| Program Name          | Image                                      |
+|-----------------------|--------------------------------------------|
+| Line Removal Tool     | <img src="Line_break_removal\files\LineBreakRemoval.png">   |
+| Unit Converter        | <img src="Units_convertors\pics\unit_convertor.png">      |
+| Password Generator    | <img src="Password-Generator\pics\Password_Generator.png">  |
+| Puzzle 15 Game        | <img src="Puzzle15\pic\Puzzle15.png">      |
